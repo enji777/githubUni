@@ -8,10 +8,10 @@ public class TestDreieck {
 
         Dreieck d2 = new Dreieck(3.2);
 
-
         System.out.println(d1.berechneFlaeche());
 
         d1.skaliereDreieck(1.5);
+        System.out.println(d1.berechneFlaeche());
 
         System.out.println(d1.getSeite());
 
@@ -19,6 +19,4 @@ public class TestDreieck {
 
         System.out.println(d1.vergleicheDreieck(d2));
     }
-
-
 }

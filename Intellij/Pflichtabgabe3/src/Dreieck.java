@@ -22,6 +22,7 @@ public class Dreieck {
             this.seite = 0;
         }
     }
+
     public void skaliereDreieck(double faktor) {
         seite = seite * faktor;
     }
@@ -38,5 +39,4 @@ public class Dreieck {
         return (this.seite == d.seite);
 
     }
-
 }
