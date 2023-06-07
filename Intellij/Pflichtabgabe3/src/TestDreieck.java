@@ -3,7 +3,6 @@
 public class TestDreieck {
     public static void main(String[] args) {
 
-        //
         Dreieck d1 = new Dreieck(0);
         d1.setSeite(7);
 
@@ -19,8 +18,6 @@ public class TestDreieck {
         System.out.println(d2.berechneHoehe());
 
         System.out.println(d1.vergleicheDreieck(d2));
-
-
     }
 
 
