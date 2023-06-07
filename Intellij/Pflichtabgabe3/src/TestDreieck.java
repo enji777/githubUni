@@ -3,8 +3,8 @@
 public class TestDreieck {
     public static void main(String[] args) {
 
+        //
         Dreieck d1 = new Dreieck(0);
-
         d1.setSeite(7);
 
         Dreieck d2 = new Dreieck(3.2);
@@ -22,8 +22,6 @@ public class TestDreieck {
 
 
     }
-
-
 
 
 }
