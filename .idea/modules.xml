@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Intellij/Klassen/Klassen.iml" filepath="$PROJECT_DIR$/Intellij/Klassen/Klassen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intellij/Kontrollstrukturen/Kontrollstrukturen.iml" filepath="$PROJECT_DIR$/Intellij/Kontrollstrukturen/Kontrollstrukturen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intellij/Methoden/Methoden.iml" filepath="$PROJECT_DIR$/Intellij/Methoden/Methoden.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intellij/Pflichtabgaben/Pflichtabgabe 2/Pflichtabgabe 2.iml" filepath="$PROJECT_DIR$/Intellij/Pflichtabgaben/Pflichtabgabe 2/Pflichtabgabe 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intellij/Pflichtabgabe1/Pflichtabgabe1.iml" filepath="$PROJECT_DIR$/Intellij/Pflichtabgabe1/Pflichtabgabe1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intellij/Pflichtabgaben/Pflichtabgabe1 Prog1/Pflichtabgabe1 Prog1.iml" filepath="$PROJECT_DIR$/Intellij/Pflichtabgaben/Pflichtabgabe1 Prog1/Pflichtabgabe1 Prog1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intellij/Pflichtabgabe2/Pflichtabgabe2.iml" filepath="$PROJECT_DIR$/Intellij/Pflichtabgabe2/Pflichtabgabe2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intellij/Pflichtabgabe3/Pflichtabgabe3.iml" filepath="$PROJECT_DIR$/Intellij/Pflichtabgabe3/Pflichtabgabe3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intellij/Test/Test.iml" filepath="$PROJECT_DIR$/Intellij/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/githubUni.iml" filepath="$PROJECT_DIR$/.idea/githubUni.iml" />
+    </modules>
+  </component>
+</project>

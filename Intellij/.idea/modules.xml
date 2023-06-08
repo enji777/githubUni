@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Intellij.iml" filepath="$PROJECT_DIR$/.idea/Intellij.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Klassen/Klassen.iml" filepath="$PROJECT_DIR$/Klassen/Klassen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kontrollstrukturen/Kontrollstrukturen.iml" filepath="$PROJECT_DIR$/Kontrollstrukturen/Kontrollstrukturen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methoden/Methoden.iml" filepath="$PROJECT_DIR$/Methoden/Methoden.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pflichtabgaben/Pflichtabgabe 2/Pflichtabgabe 2.iml" filepath="$PROJECT_DIR$/Pflichtabgaben/Pflichtabgabe 2/Pflichtabgabe 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pflichtabgabe1/Pflichtabgabe1.iml" filepath="$PROJECT_DIR$/Pflichtabgabe1/Pflichtabgabe1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pflichtabgaben/Pflichtabgabe1 Prog1/Pflichtabgabe1 Prog1.iml" filepath="$PROJECT_DIR$/Pflichtabgaben/Pflichtabgabe1 Prog1/Pflichtabgabe1 Prog1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pflichtabgabe2/Pflichtabgabe2.iml" filepath="$PROJECT_DIR$/Pflichtabgabe2/Pflichtabgabe2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pflichtabgabe3/Pflichtabgabe3.iml" filepath="$PROJECT_DIR$/Pflichtabgabe3/Pflichtabgabe3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+    </modules>
+  </component>
+</project>
