@@ -15,5 +15,8 @@ public class MeinArray {
         }
     }
 
-    public static void gibElement{}
+    public static void gibElement(int [] array, int i){
+        for (int i = 0; i < array.length; i++)
+            return
+    }
 }
