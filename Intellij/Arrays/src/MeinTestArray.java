@@ -8,6 +8,8 @@ public class MeinTestArray {
         char[] array6 = {'a', 'b', 'd'};
         char[] array7 = {'a', 'b', 'c'};
         char[] array8 =  {'a', 'b'};
+        float[] array9 = null;
+        char[] array10 = {'a', 'b', 'd'};
 
         System.out.println(MeinArray.istGleichlang(array1,array2));
 
@@ -23,7 +25,9 @@ public class MeinTestArray {
         System.out.println(MeinArray.max(array4));
         System.out.println(MeinArray.gibErstenIndexUngleicherElemente(array6,array7));
         System.out.println(MeinArray.gibErstesUngleichesElement(array6,array7));
-        System.out.println(MeinArray.gibErstesUngleichesElement(array6,array8));
+        System.out.println(MeinArray.gibErstesUngleichesElement(array6,array7));
+        System.out.println(MeinArray.mittelwert2(array9));
+        System.out.println(MeinArray.gibErstesUngleichesElement(array6,array7));
     }
 
 }

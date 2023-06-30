@@ -51,6 +51,7 @@ public class MeinArray {
         return max;
     }
 
+
     public static boolean istGleich(char[] a1, char[] a2) {
         for (int i = 0; i < a1.length; i++) {
             if (a1[i] != a2[i])
@@ -69,12 +70,21 @@ public class MeinArray {
         return "kein ungleiches Element";
     }
 
-    public static String gibErstesUngleichesElement(char[] a1, char[] a2){
+    public static String gibErstesUngleichesElement(char[] a1, char[] a2) {
         for (int i = 0; i < a1.length; i++) {
             if (a1[i] != a2[i]) {
                 return String.valueOf(a1[i]);
             }
         }
         return "kein ungleiches Element";
+    }
+
+    public static double mittelwert2(float[] arr) {
+        if (arr == null)
+            throw new NullPointerException("Array ist null!");
+        double add = 0;
+        for (int i = 0; i < arr.length; i++)
+            add = add + arr[i];
+        return add / arr.length;
     }
 }
